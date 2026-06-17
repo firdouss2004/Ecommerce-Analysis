@@ -1,0 +1,21 @@
+# Power BI temp files
+*.pbix.lock
+~*.pbix
+
+# Excel temp files
+~$*.xlsx
+*.xlk
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python (if used for EDA)
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
